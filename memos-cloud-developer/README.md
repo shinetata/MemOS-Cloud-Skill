@@ -12,28 +12,28 @@ MemOS Cloud 开发者助手 Skill。通过自然语言描述需求，直接获�
 
 ```bash
 # Cursor
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --agent cursor -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --agent cursor -g -y
 
 # Trae
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --agent trae -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --agent trae -g -y
 
 # Trae-CN
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --agent trae-cn -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --agent trae-cn -g -y
 
 # Claude Code
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --agent claude-code -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --agent claude-code -g -y
 
 # Codex
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --agent codex -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --agent codex -g -y
 
 # OpenClaw
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --agent openclaw -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --agent openclaw -g -y
 
 # Hermes
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --agent hermes -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --agent hermes -g -y
 
 # 所有 Agent 一次安装
-npx skills add https://github.com/MemTensor/MemOS-Cloud-Skill --skill memos-cloud-developer --all -g -y
+npx skills add https://github.com/shinetata/MemOS-Cloud-Skill --skill memos-cloud-developer --all -g -y
 ```
 
 安装完成后，在工具的 Agent 面板中可以看到 **memos-cloud-developer** Skill 已加载，即表示安装成功。
